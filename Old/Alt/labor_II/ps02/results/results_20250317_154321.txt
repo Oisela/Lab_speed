@@ -1,0 +1,78 @@
+Analysis Results for Boyle-Mariottesches Gesetz
+Date: 2025-03-17 15:43:21
+
+Using example data defined in the program
+
+
+LaTeX equation format:
+
+\begin{align*}
+	Q &= \SI{0.057255526111673984(0)}{\cm^2}
+\end{align*}
+
+Weighted Mean: 664 m/s
+Weighted Mean Error: 0.0289 m/s
+
+Fit Results:
+
+Coef. 0: 686 ± 94.6
+Coef. 1: -2.08e+03 ± 197
+Coef. 2: 2.01e+03 ± 97.8
+R² = 0.99003
+
+LaTeX format:
+\begin{align*}
+	R^2 &= 0.99003
+	a_0 &= \SI{686.138692164368(94.58114308286687)}{m/s}
+	a_1 &= \SI{-2075.4518036751297(197.20567538492907)}{m/s}
+	a_2 &= \SI{2005.9586060107545(97.81998990792329)}{m/s}
+\end{align*}
+
+
+Variables and values used:
+X values = [1.46001592 1.37413263 1.22526826 1.15656163 1.09358055 0.99624615
+ 0.95044173 0.86455844 0.80157737 0.74432184 0.68134076 0.62981079]
+Y values = [ 422.0044528  452.0044528  512.0044528  532.0044528  572.0044528
+  612.0044528  652.0044528  712.0044528  772.0044528  822.0044528
+  892.0044528 1012.0044528]
+X errors = [0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1]
+Y errors = [0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1 0.1]
+
+Measurementse (m/s)            Error (m/s)         
+1         422                 0.1                 
+2         452                 0.1                 
+3         512                 0.1                 
+4         532                 0.1                 
+5         572                 0.1                 
+6         612                 0.1                 
+7         652                 0.1                 
+8         712                 0.1                 
+9         772                 0.1                 
+10        822                 0.1                 
+11        892                 0.1                 
+12        1.01e+03            0.1                 
+
+LaTeX table format:
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{|c|c|}
+		\hline Measurements & se ($m/s$) \\\hline
+		\hline 1 & $422 \pm 0.1$ \\
+		\hline 2 & $452 \pm 0.1$ \\
+		\hline 3 & $512 \pm 0.1$ \\
+		\hline 4 & $532 \pm 0.1$ \\
+		\hline 5 & $572 \pm 0.1$ \\
+		\hline 6 & $612 \pm 0.1$ \\
+		\hline 7 & $652 \pm 0.1$ \\
+		\hline 8 & $712 \pm 0.1$ \\
+		\hline 9 & $772 \pm 0.1$ \\
+		\hline 10 & $822 \pm 0.1$ \\
+		\hline 11 & $892 \pm 0.1$ \\
+		\hline 12 & $1012 \pm 0.1$ \\
+		\hline
+	\end{tabular}
+	\caption{Measurement results for se}
+	\label{tab:se}
+\end{table}
+

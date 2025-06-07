@@ -1,0 +1,7 @@
+
+LaTeX equation format:
+
+\begin{align*}
+	Mittelwert &= \SI{4.420278572023809(Mittelwert mit Fehler)}{\149.32233574932448}
+\end{align*}
+
