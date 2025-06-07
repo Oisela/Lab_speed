@@ -1,0 +1,13 @@
+Datum und Uhrzeit der Berechnung: 2024-11-22 14:52:16
+
+
+Fit-Koeffizienten Fit g--:
+Koef. 0: 6.844543204 ± 0.18501007
+Koef. 1: 9.102447569 ± 0.4683083389
+
+
+Fit-Koeffizienten Fit r--:
+Koef. 0: 2.227523522 ± 0.1373935462
+Koef. 1: 7.77459711 ± 0.391663438
+
+

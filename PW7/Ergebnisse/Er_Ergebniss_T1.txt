@@ -1,0 +1,15 @@
+Datum und Uhrzeit der Berechnung: 2024-11-22 16:50:15
+
+
+Verwendete Variablen und Werte:
+P1 = 27.276000000000003
+
+Messung   Temperatur (K)      Fehler (K)          
+1         3826.351261         533.7840519         
+
+Ergebnisse für LaTeX:
+
+\begin{align*} 
+	 ? &= \SI{3.8e+03(5.3e+02)}{\K} 
+\end{align*} 
+

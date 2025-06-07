@@ -1,0 +1,31 @@
+Verwendete Variablen und Werte:
+U_LL = [3.26 3.33]
+I_KS = [0.012434 0.02838 ]
+P_max = [0.02769 0.0759 ]
+
+Messung   CFF  ()             Fehler ()           
+1         0.6831160552        0.1100030605        
+2         0.8031287101        0.1027014373        
+
+Mittelwert der CFF : 0.7431223827 
+Mittelwert der Fehler: 0.1063522489 
+Gewichteter Mittelwert: 0.7472372736 
+Fehler des gewichteten Mittelwerts: 0.07506956213 
+Standardabweichung: 0.08486176209 
+Standardfehler des Mittels: 0.06000632744 
+Ergebniss: 0.7431223827 ± 0.06000632744 
+
+Ergebnisse für LaTeX:
+
+\begin{table}[H] 
+	 \centering 
+	 \begin{tabular}{|c|c|} 
+	 	 \hline Messungen & CFF  ()  \\ \hline 
+	 	 \hline 1 & $0.68 \pm 0.11$ \\ 
+	 	 \hline 2 & $0.8 \pm 0.1$ \\ 
+	 	 \hline 
+	 \end{tabular} 
+	 \caption{Messergebnisse für CFF  } 
+	 \label{tab:CFF } 
+\end{table} 
+

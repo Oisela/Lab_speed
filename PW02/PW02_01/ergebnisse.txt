@@ -1,0 +1,6 @@
+Ermittelter Wert für a: 0.09755149658534241
+Ermittelter Wert für v0: 0.0329224875554142
+Ermittelter Wert für x0: 0.02773817434555364
+Experimentelle Kraft: 0.196 N
+Theoretische Kraft (reibungsfrei): 9.793 N
+Gleitreibungskoeffizient µG: 0.010

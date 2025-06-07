@@ -1,0 +1,79 @@
+Datum und Uhrzeit: 2024-11-18 10:49:21
+
+0.1088
+0.13470000000000001
+0.1861
+0.33510000000000006
+0.4063
+0.524
+1.018
+1.129
+1.283
+1.4200000000000002
+1.5030000000000001
+1.6030000000000002
+.01.2434
+0.010935
+0.010935
+0.010925
+0.010894999999999998
+0.010865
+0.010865
+0.01083
+0.010805
+0.010790000000000001
+0.01076
+0.010745000000000001
+0.01074
+Fit-Koeffizienten Fit g--:
+Koef. 0: -0.3263340933 ± 0.01017307336
+Koef. 1: 1.589025812 ± 0.0007866957114
+
+Verwendete Variablen und Werte:
+
+Messung   Strom über $R_L$  (A)Fehler (A)          
+1         1.587               0.010935            
+2         1.587               0.010935            
+3         1.585               0.010925            
+4         1.579               0.010895            
+5         1.573               0.010865            
+6         1.573               0.010865            
+7         1.566               0.01083             
+8         1.561               0.010805            
+9         1.558               0.01079             
+10        1.552               0.01076             
+11        1.549               0.010745            
+12        1.548               0.01074             
+
+Mittelwert der Strom über $R_L$ : 1.568166667 A
+Mittelwert der Fehler: 0.01084083333 A
+Gewichteter Mittelwert: 1.567985826 A
+Fehler des gewichteten Mittelwerts: 0.003129283262 A
+Standardabweichung: 0.01462148689 A
+Standardfehler des Mittels: 0.004220859695 A
+Ergebniss: 1.568166667 ± 0.004220859695 A
+
+Ergebnisse für LaTeX:
+
+\begin{table}[H] 
+	 \centering 
+	 \begin{tabular}{|c|c|} 
+	 	 \hline Messungen & Strom über $R_L$  (A)  \\ \hline 
+	 	 \hline 1 & $1.587 \pm 0.01094$ \\ 
+	 	 \hline 2 & $1.587 \pm 0.01094$ \\ 
+	 	 \hline 3 & $1.585 \pm 0.01093$ \\ 
+	 	 \hline 4 & $1.579 \pm 0.01089$ \\ 
+	 	 \hline 5 & $1.573 \pm 0.01086$ \\ 
+	 	 \hline 6 & $1.573 \pm 0.01086$ \\ 
+	 	 \hline 7 & $1.566 \pm 0.01083$ \\ 
+	 	 \hline 8 & $1.561 \pm 0.01081$ \\ 
+	 	 \hline 9 & $1.558 \pm 0.01079$ \\ 
+	 	 \hline 10 & $1.552 \pm 0.01076$ \\ 
+	 	 \hline 11 & $1.549 \pm 0.01075$ \\ 
+	 	 \hline 12 & $1.548 \pm 0.01074$ \\ 
+	 	 \hline 
+	 \end{tabular} 
+	 \caption{Messergebnisse für Strom über $R_L$  } 
+	 \label{tab:Strom über $R_L$ } 
+\end{table} 
+

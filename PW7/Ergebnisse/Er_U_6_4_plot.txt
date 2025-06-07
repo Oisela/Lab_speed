@@ -1,0 +1,38 @@
+Datum und Uhrzeit der Berechnung: 2024-11-22 16:49:15
+
+
+Fit-Koeffizienten Fit g--:
+Koef. 0: 6.844543204 ± 0.18501007
+Koef. 1: 9.102447569 ± 0.4683083389
+
+
+Fit-Koeffizienten Fit r--:
+Koef. 0: 2.227523522 ± 0.1373935462
+Koef. 1: 7.77459711 ± 0.391663438
+
+
+Verwendete Variablen und Werte:
+R = [0.5  0.53 0.58 0.63 0.71 0.82 1.   1.41]
+V_Aus = [36.8 33.9 29.5 25.7 22.2 18.5 16.4 13.2]
+R2 = [0.5  0.53 0.56 0.6  0.63 0.65 0.71 0.79]
+V2_Aus = [16.7 16.  15.  13.5 13.3 12.8 12.2 11.7]
+error_V = [np.float64(0.5944), np.float64(0.5712), np.float64(0.536), np.float64(0.5056), np.float64(0.4776), np.float64(0.44800000000000006), np.float64(0.4312), np.float64(0.40560000000000007)]
+error_r = [0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01]
+error_V2 = [np.float64(0.43360000000000004), np.float64(0.42800000000000005), np.float64(0.42000000000000004), np.float64(0.40800000000000003), np.float64(0.40640000000000004), np.float64(0.40240000000000004), np.float64(0.39760000000000006), np.float64(0.39360000000000006)]
+error_r_2 = [0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01]
+
+Messung   Strom über $R_L$  ()Fehler ()           
+Standardabweichung: 2.990087791 
+
+Ergebnisse für LaTeX:
+
+\begin{table}[H] 
+	 \centering 
+	 \begin{tabular}{|c|c|} 
+	 	 \hline Messungen & Strom über $R_L$  ()  \\ \hline 
+	 	 \hline 
+	 \end{tabular} 
+	 \caption{Messergebnisse für Strom über $R_L$  } 
+	 \label{tab:Strom über $R_L$ } 
+\end{table} 
+

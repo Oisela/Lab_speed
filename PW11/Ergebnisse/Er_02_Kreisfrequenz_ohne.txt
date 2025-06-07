@@ -1,0 +1,102 @@
+Datum und Uhrzeit der Berechnung: 2025-01-10 09:40:38
+
+
+Ergebnisse für LaTeX:
+
+\begin{align*} 
+	 ? &= \SI{1(inf)}{\degrees} 
+	 ? &= \SI{1(inf)}{\degrees} 
+	 ? &= \SI{1(inf)}{\degrees} 
+	 ? &= \SI{1(inf)}{\degrees} 
+\end{align*} 
+
+Fit-Koeffizienten Fit g--:
+Koef. 0: 1 ± inf
+Koef. 1: 1 ± inf
+Koef. 2: 1 ± inf
+Koef. 3: 1 ± inf
+
+Latex R^2:
+\begin{align*} 
+	 R^2 &= -1.6385 
+\end{align*} 
+
+
+Verwendete Variablen und Werte:
+Temperatur = [ 32  48  80 112 144 240 336 624 736 800 896 928 936 912 824 768 720 576
+ 416 336 304 224 200 160 128  96  48  32]
+Zeit = [3.9  4.2  4.4  4.6  4.7  4.8  4.85 4.91 4.92 4.93 4.94 4.95 4.96 4.97
+ 4.98 4.99 5.   5.02 5.05 5.08 5.1  5.15 5.2  5.25 5.4  5.6  7.   8.  ]
+Fehler Temperatur = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Fehler Zeit = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Messung   Temperatur des Wassers (\degrees)Fehler (\degrees)   
+1         32                  0                   
+2         48                  0                   
+3         80                  0                   
+4         112                 0                   
+5         144                 0                   
+6         240                 0                   
+7         336                 0                   
+8         624                 0                   
+9         736                 0                   
+10        800                 0                   
+11        896                 0                   
+12        928                 0                   
+13        936                 0                   
+14        912                 0                   
+15        824                 0                   
+16        768                 0                   
+17        720                 0                   
+18        576                 0                   
+19        416                 0                   
+20        336                 0                   
+21        304                 0                   
+22        224                 0                   
+23        200                 0                   
+24        160                 0                   
+25        128                 0                   
+26        96                  0                   
+27        48                  0                   
+28        32                  0                   
+
+Ergebnisse für LaTeX:
+
+\begin{table}[H] 
+	 \centering 
+	 \begin{tabular}{|c|c|} 
+	 	 \hline Messungen & Temperatur des Wassers ($\degrees$)  \\ \hline 
+	 	 \hline 1 & $32 \pm 0$ \\ 
+	 	 \hline 2 & $48 \pm 0$ \\ 
+	 	 \hline 3 & $80 \pm 0$ \\ 
+	 	 \hline 4 & $112 \pm 0$ \\ 
+	 	 \hline 5 & $144 \pm 0$ \\ 
+	 	 \hline 6 & $240 \pm 0$ \\ 
+	 	 \hline 7 & $336 \pm 0$ \\ 
+	 	 \hline 8 & $624 \pm 0$ \\ 
+	 	 \hline 9 & $736 \pm 0$ \\ 
+	 	 \hline 10 & $800 \pm 0$ \\ 
+	 	 \hline 11 & $896 \pm 0$ \\ 
+	 	 \hline 12 & $928 \pm 0$ \\ 
+	 	 \hline 13 & $936 \pm 0$ \\ 
+	 	 \hline 14 & $912 \pm 0$ \\ 
+	 	 \hline 15 & $824 \pm 0$ \\ 
+	 	 \hline 16 & $768 \pm 0$ \\ 
+	 	 \hline 17 & $720 \pm 0$ \\ 
+	 	 \hline 18 & $576 \pm 0$ \\ 
+	 	 \hline 19 & $416 \pm 0$ \\ 
+	 	 \hline 20 & $336 \pm 0$ \\ 
+	 	 \hline 21 & $304 \pm 0$ \\ 
+	 	 \hline 22 & $224 \pm 0$ \\ 
+	 	 \hline 23 & $200 \pm 0$ \\ 
+	 	 \hline 24 & $160 \pm 0$ \\ 
+	 	 \hline 25 & $128 \pm 0$ \\ 
+	 	 \hline 26 & $96 \pm 0$ \\ 
+	 	 \hline 27 & $48 \pm 0$ \\ 
+	 	 \hline 28 & $32 \pm 0$ \\ 
+	 	 \hline 
+	 \end{tabular} 
+	 \caption{Messergebnisse für Temperatur des Wassers } 
+	 \label{tab:Temperatur des Wassers} 
+\end{table} 
+

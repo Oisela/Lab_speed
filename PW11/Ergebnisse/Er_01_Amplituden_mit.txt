@@ -1,0 +1,59 @@
+Datum und Uhrzeit der Berechnung: 2025-01-10 09:24:47
+
+
+Ergebnisse für LaTeX:
+
+\begin{align*} 
+	 ? &= \SI{-1.52(0.02)}{\degrees} 
+	 ? &= \SI{-0.0119(0.0226)}{\degrees} 
+\end{align*} 
+
+Fit-Koeffizienten Fit g--:
+Koef. 0: -1.515466253 ± 0.02004648004
+Koef. 1: -0.01186990761 ± 0.02256156891
+
+Latex R^2:
+\begin{align*} 
+	 R^2 &= 0.99878 
+\end{align*} 
+
+
+Verwendete Variablen und Werte:
+Temperatur = [-0.28768207 -0.62860866 -0.91629073 -1.26113122 -1.5293952  -1.79175947
+ -2.17742195 -2.44568594 -2.7080502 ]
+Zeit = [0.2 0.4 0.6 0.8 1.  1.2 1.4 1.6 1.8]
+Fehler Temperatur = [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Fehler Zeit = [0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+Messung   Temperatur des Wassers (\degrees)Fehler (\degrees)   
+1         -0.2876820725       0                   
+2         -0.6286086594       0                   
+3         -0.9162907319       0                   
+4         -1.261131218        0                   
+5         -1.529395205        0                   
+6         -1.791759469        0                   
+7         -2.17742195         0                   
+8         -2.445685937        0                   
+9         -2.708050201        0                   
+
+Ergebnisse für LaTeX:
+
+\begin{table}[H] 
+	 \centering 
+	 \begin{tabular}{|c|c|} 
+	 	 \hline Messungen & Temperatur des Wassers ($\degrees$)  \\ \hline 
+	 	 \hline 1 & $-0 \pm 0$ \\ 
+	 	 \hline 2 & $-1 \pm 0$ \\ 
+	 	 \hline 3 & $-1 \pm 0$ \\ 
+	 	 \hline 4 & $-1 \pm 0$ \\ 
+	 	 \hline 5 & $-2 \pm 0$ \\ 
+	 	 \hline 6 & $-2 \pm 0$ \\ 
+	 	 \hline 7 & $-2 \pm 0$ \\ 
+	 	 \hline 8 & $-2 \pm 0$ \\ 
+	 	 \hline 9 & $-3 \pm 0$ \\ 
+	 	 \hline 
+	 \end{tabular} 
+	 \caption{Messergebnisse für Temperatur des Wassers } 
+	 \label{tab:Temperatur des Wassers} 
+\end{table} 
+
